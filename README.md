@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm Ben.
+
+I'm a Computer Science undergraduate student at Rutgers.
 
 <!--
 **bwigswear/bwigswear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
